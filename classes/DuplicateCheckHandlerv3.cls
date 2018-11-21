@@ -3,6 +3,8 @@
 * Created on 14/04/2018
 * tested by DuplicateCheck_testv3
 *
+* * 21/11/2018 by Bartosz
+*
 * * 25/10/2018 by Bartosz
 * 	- Added language as parameter to DuplicateCheckObject
 * 	- Added language when Account / Contact is created
